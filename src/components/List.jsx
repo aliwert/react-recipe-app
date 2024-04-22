@@ -50,7 +50,7 @@ function List() {
       </div>
       {meal ? (
         <div>
-          <img src={meal.strMealThumb} alt={meal.strMeal} />
+          <img className="img" src={meal.strMealThumb} alt={meal.strMeal} />
           <div className="details">
             <h2>{meal.strMeal}</h2>
             <h4>{meal.strArea}</h4>

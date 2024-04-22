@@ -5,4 +5,9 @@
 
 # 🍴Recipe Finder
 
-This is a simple web application that allows users to search for recipes based on dish names. Users can enter the name of a dish they are interested in, and the application will fetch information about that dish from an external API (TheMealDB API) and display the details including the dish image, ingredients, area, and instructions on how to prepare it.
+This is a web application that allows users to search for recipes based on dish names. Users can enter the name of a dish they are interested in, and the application will fetch information about that dish from an external API (TheMealDB API) and display the details including the dish image, ingredients, area, and instructions on how to prepare it.
+
+## 🤖Features
+- Search for recipes by entering the name of the dish.
+- Display detailed information about the dish, including image, ingredients, area, and instructions.
+- Responsive design for both desktop and mobile devices.

@@ -37,3 +37,9 @@ If you prefer using Yarn package manager, you can follow the steps below to run 
 3. Run `yarn install` || `yarn` to install the dependencies.
 4. Run `yarn start` to start the development server.
 5. Open your web browser and go to `http://localhost:3000`
+
+## 🛠️Technologies Used
+- React.js
+- CSS
+- TheMealDB API
+- Google Fonts

@@ -3,4 +3,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-# 🍴Recipe App
+# 🍴Recipe Finder
+
+This is a simple web application that allows users to search for recipes based on dish names. Users can enter the name of a dish they are interested in, and the application will fetch information about that dish from an external API (TheMealDB API) and display the details including the dish image, ingredients, area, and instructions on how to prepare it.

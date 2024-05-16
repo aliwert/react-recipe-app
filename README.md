@@ -13,7 +13,7 @@ This is a web application that allows users to search for recipes based on dish 
 - Display detailed information about the dish, including image, ingredients, area, and instructions.
 - Responsive design for both desktop and mobile devices.
 
-## How to Use ❓
+## How to Use ❓ ❔
 
 1. Enter the dish name in the search bar and click "Search".
 2. Explore the dish details including image, name, area, and ingredients.
